@@ -15,7 +15,7 @@ Getting Started
 
 1. Clone the repository
 
-git clone https://github.com/your-username/sudoku-app.git
+git clone https://github.com/PSunithya/sudoku-app.git
 cd sudoku-app
 
 2. Install dependencies
